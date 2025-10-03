@@ -1,4 +1,3 @@
-requests
+streamlit
 transformers
 torch
-python-dotenv
